@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		xmlns:my="http://schemas.android.com/apk/res/com.example"
+		android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		>	
+	<com.example.Demo
+		android:id="@+id/MyTextView"
+		android:layout_width="fill_parent"
+		android:layout_height="50px"
+		my:first_name="KARAN"
+	/>
+		
+</LinearLayout>
